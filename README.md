@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NaivePoe
 - 👀 I’m interested in IOS development
 - 🌱 I’m currently learning XCode
-- 💞️ I’m looking to collaborate on ...
 - 📫 dai.cagri@gmail.com
 
 <!---
