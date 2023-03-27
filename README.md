@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaivePoe
-- 👀 I’m interested in IOS development
-- 🌱 I’m currently learning XCode
+- 👀 I’m Junior iOS developer
+- 🌱 I’m also Cook and Biologist
 - 📫 dai.cagri@gmail.com
 
 <!---
