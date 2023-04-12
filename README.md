@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaivePoe
-- 👀 I’m Junior iOS developer
+- 👀 I’m Junior iOS developer, currently I'm learning SQL and SwiftUI
 - 🌱 I’m also Cook and Biologist
 - 📫 dai.cagri@gmail.com
 
